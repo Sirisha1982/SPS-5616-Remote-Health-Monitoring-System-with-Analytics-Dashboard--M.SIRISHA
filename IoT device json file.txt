@@ -1,0 +1,7 @@
+{
+  "Age": random(0, 100),
+  "Temperature": random(0, 200),
+  "Diastolic": random(0, 200),
+  "Systolic": random(0, 200),
+  "Pulse": random(0, 200)
+}

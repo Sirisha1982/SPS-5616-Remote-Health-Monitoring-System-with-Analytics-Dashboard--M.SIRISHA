@@ -1,0 +1,40 @@
+TEST OUTPUT
+
+
+{
+    "predictions": [
+        {
+            "fields": [
+                "prediction",
+                "probability"
+            ],
+            "values": [
+                [
+                    "Error",
+                    [
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                ]
+            ]
+        }
+    ]
+}
